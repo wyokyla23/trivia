@@ -1,11 +1,18 @@
 import React from 'react'
-import Trivia from './components/Trivia'
+import Trivia from './pages/Trivia'
+import {
+  BrowserRouter as Router
+} from 'react-router-dom'
+import Routes from './routes'
 
-function App(props) {
+function App() {
+  console.log('Hello, there!')
   return (
-    <div className="App">
-      <Trivia />
-    </div>
+    <Router>
+      <div className="App">
+        <Routes />
+      </div>
+    </Router>
   );
 }
 
