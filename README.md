@@ -1,3 +1,15 @@
+# Trivia
+### Enjoy trivia? You've come to the right place! Test your skills with these trivia questions and multi-choice answers. 
+This app was built with React.js, React-Router, React Hooks, Material-UI, and Lodash. Styling to-be-continued.
+
+## Acceptance Criteria
+* A user can view questions
+* Questions with their multiple choice options must be displayed one at a time
+* Questions should not repeat in a round
+* A user can select only 1 answer out of the 4 possible answers
+* The correct answer must be revealed after a user has submitted their answer
+* A user can see the score they received at the end of the round
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
