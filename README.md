@@ -2,6 +2,7 @@
 ### Enjoy trivia? You've come to the right place! Test your skills with these trivia questions and multi-choice answers. 
 This app was built with React.js, React-Router, React Hooks, Material-UI, and Lodash. Styling to-be-continued.
 It was mentioned that testing would be a plus. I used Proptypes because that is what I am familiar with at the moment.
+I also started and finished this project the day it was due so I was limited on time but I made do with the time I had and I'm proud of what I've accomplished.
 
 ## Acceptance Criteria
 * A user can view questions
