@@ -4,6 +4,8 @@ This app was built with React.js, React-Router, React Hooks, Material-UI, and Lo
 It was mentioned that testing would be a plus. I used Proptypes because that is what I am familiar with at the moment.
 I also started and finished this project the day it was due so I was limited on time but I made do with the time I had and I'm proud of what I've accomplished.
 
+![trivia](https://user-images.githubusercontent.com/62663716/100527337-460cd180-3197-11eb-8513-7edcf832567c.png)
+
 ## Acceptance Criteria
 * A user can view questions
 * Questions with their multiple choice options must be displayed one at a time
