@@ -2,13 +2,12 @@ import React from 'react'
 import Grid from '@material-ui/core/Grid'
 import { makeStyles } from '@material-ui/core/styles'
 import Container from '@material-ui/core/Container'
-import { Card } from '@material-ui/core'
 import Typography from '@material-ui/core/Typography'
 import Button from '@material-ui/core/Button'
 
 const useStyles = makeStyles({
   root: {
-    backgroundColor: '#8f935c',
+    backgroundColor: '#993A3A',
     height: '100vh',
   },
   container: {
@@ -19,7 +18,7 @@ const useStyles = makeStyles({
     height: '100vh'
   },
   text: {
-    color: 'black',
+    color: 'white',
   },
   header: {
     display: 'flex',
@@ -28,10 +27,13 @@ const useStyles = makeStyles({
     marginBottom: '25px',
     fontSize: '1.5rem'
   },
+  answers: {
+    color: 'white'
+  },
   button: {
     minWidth: '200px',
     margin: '10px',
-    border: 'solid #504d31 ',
+    border: 'solid white',
   },
 })
 

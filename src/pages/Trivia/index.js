@@ -1,18 +1,16 @@
 import React, { useState } from 'react'
-import propTypes from 'prop-types'
+// import propTypes from 'prop-types'
 import data from '../../data.json'
 import Grid from '@material-ui/core/Grid'
 import Typography from '@material-ui/core/Typography'
-import Button from '@material-ui/core/Button'
 import { makeStyles } from '@material-ui/core/styles'
-import Card from '@material-ui/core/Card'
 import Container from '@material-ui/core/Container'
 import shuffle from 'lodash/shuffle'
 import QuestionCard from '../../components/QuestionCard'
 
 const useStyles = makeStyles({
   root: {
-    backgroundColor: '#8f935c',
+    backgroundColor: '#7F0909',
     height: '100vh',
   },
   quizContainer: {
@@ -34,11 +32,11 @@ const useStyles = makeStyles({
   }
 })
 
-const PropTypes = {
-  history: propTypes.object
-}
+// const PropTypes = {
+//   history: propTypes.object
+// }
 
-export default function Trivia({ history, match }) {
+export default function Trivia({ history }) {
   const [score, setScore] = useState(0)
   const [questionIndex, setQuestionIndex] = useState(0)
 

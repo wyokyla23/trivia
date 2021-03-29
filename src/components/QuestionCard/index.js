@@ -17,9 +17,9 @@ const useStyles = makeStyles({
   button: {
     minWidth: '200px',
     margin: '10px',
-    border: 'solid #504d31 ',
+    border: 'solid #993A3A',
     '&:hover': {
-      backgroundColor: '#8b134d',
+      backgroundColor: 'rgb(127, 9, 9, .3)',
     },
   },
   list: {
@@ -45,7 +45,7 @@ function QuestionCard({ question, answers, questionMessage, handleAnswer }) {
   const classes = useStyles()
   return (
     <Card
-      style={{ backgroundColor: '#6c6f45' }}
+      style={{ backgroundColor: '#993A3A' }}
       elevation={24}
     >
       <Grid

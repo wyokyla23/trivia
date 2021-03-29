@@ -1,5 +1,4 @@
 import React from 'react'
-import Trivia from './pages/Trivia'
 import {
   BrowserRouter as Router
 } from 'react-router-dom'

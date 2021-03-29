@@ -1,190 +1,191 @@
 [
   {
-    "question": "What was Tandem previous name?",
+    "question": "What house does Harry belong to?",
     "incorrect": [
-      "Tandem",
-      "Burger Shack",
-      "Extraordinary Humans"
+      "Slytherin",
+      "Hufflepuff",
+      "Ravenclaw"
     ],
-    "correct": "Devmynd"
+    "correct": "Gryffindor"
   },
   {
-    "question": "In Shakespeare's play Julius Caesar, Caesar's last words were...",
+    "question": "What position does Harry play on his Quidditch team?",
     "incorrect": [
-      "Iacta alea est!",
-      "Vidi, vini, vici",
-      "Aegri somnia vana"
+      "Chaser",
+      "Keeper",
+      "Auror"
     ],
-    "correct": "Et tu, Brute?"
+    "correct": "Seeker"
   },
   {
-    "question": "A group of tigers are referred to as:",
+    "question": "Who is Crookshanks?",
     "incorrect": [
-      "Chowder",
-      "Pride",
-      "Destruction"
+      "A troll",
+      "Harry's love interest",
+      "A three-headed dog"
     ],
-    "correct": "Ambush"
+    "correct": "Hermione's cat"
   },
   {
-    "question": "What is the top speed an average cat can travel?",
+    "question": "Which of these is the Summoning Charm?",
     "incorrect": [
-      "42 mph",
-      "13 mph",
-      "9 mph"
+      "Expecto Patronum",
+      "Wingardium Leviosa",
+      "Avada Kedavra"
     ],
-    "correct": "31 mph"
+    "correct": "Accio"
   },
   {
-    "question": "A cat can jump to _____ times its own height:",
+    "question": "What type of dragon did Harry face in the first Tri-Wizard Tournament task?",
     "incorrect": [
-      "3",
-      "9",
-      "7"
+      "A Norwegian Ridgeback",
+      "A Chinese Fireball",
+      "A Common Welsh Green"
     ],
-    "correct": "5"
+    "correct": "A Hungarian Horntail"
   },
   {
-    "question": "What is the only letter that doesn't appear in a US state name?",
+    "question": "Who dies in the third Tri-Wizard Tournament task?",
     "incorrect": [
-      "M",
-      "Z",
-      "X"
+      "Hagrid",
+      "Viktor Krum",
+      "Fleur Delacour"
     ],
-    "correct": "Q"
+    "correct": "Cedric Diggory"
   },
   {
-    "question": "What is the name for a cow-bison hybrid?",
+    "question": "What is a Thestral?",
     "incorrect": [
-      "Cowson",
-      "Bicow",
-      "Mooson"
+      "A house elf",
+      "A fairy",
+      "A death eater"
     ],
-    "correct": "Beefalo"
+    "correct": "An invisible winged horse"
   },
   {
-    "question": "What is the largest freshwater lake in the world?",
+    "question": "How does Harry catch his first snitch?",
     "incorrect": [
-      "Lake Baikal",
-      "Lake Michigan",
-      "Lake Victoria"
+      "With his hands",
+      "With a net",
+      "He coaxes it to him"
     ],
-    "correct": "Lake Superior"
+    "correct": "With his mouth"
   },
   {
-    "question": "In a website address bar, what does WWW stand for?",
+    "question": "How are Hogwarts Students placed in their houses?",
     "incorrect": [
-      "Wild Wild West",
-      "War World Web"
+      "Professor Dumbledore assigns them",
+      "They are sorted by height",
+      "They have to fight it out"
     ],
-    "correct": "World Wide Web"
+    "correct": "The Sorting Hat decides"
   },
   {
-    "question": "In a game of bingo, what number is represented by the name two little ducks?",
+    "question": "What talent does Harry share with Voldemort?",
     "incorrect": [
-      "20",
-      "55",
-      "77"
+      "He can recite the wizard alphabet backwards",
+      "He's an Auror",
+      "He's an Animagus"
     ],
-    "correct": "22"
+    "correct": "He's a Parselmouth"
   },
   {
-    "question": "According to Greek mythology, who was the first woman on Earth?",
+    "question": "How did Moaning Myrtle die?",
     "incorrect": [
-      "Lilith",
-      "Eve",
-      "Hera"
+      "The Whomping Willow whomped her",
+      "A Nosebleed Nougat",
+      "From apparating"
     ],
-    "correct": "Pandora"
+    "correct": "The Basilisk"
   },
   {
-    "question": "In which European city would you find Orly airport?",
+    "question": "What does Felix Felicis do?",
     "incorrect": [
-      "London",
-      "Belgium",
-      "Munich"
+      "Makes hair grow on your face",
+      "Makes you float",
+      "Poisons you"
     ],
-    "correct": "Paris"
+    "correct": "Gives good luck"
   },
   {
-    "question": "Where would you find the Sea of Tranquility?",
+    "question": "Who does Harry see in the mirror shard?",
     "incorrect": [
-      "California",
-      "Siberia",
-      "China"
+      "Sirius Black",
+      "His parents",
+      "Dobby"
     ],
-    "correct": "The Moon"
+    "correct": "Aberforth"
   },
   {
-    "question": "Which artist painted 'Girl with a Pearl Earrin'?",
+    "question": "Who is the half-blood prince?",
     "incorrect": [
-      "Van Gogh",
-      "Picasso",
-      "Da Vinci"
+      "Draco Malfoy",
+      "Remus Lupin",
+      "Peeves"
     ],
-    "correct": "Vermeer"
+    "correct": "Severus Snape"
   },
   {
-    "question": "What is the official name for the 'hashtag' symbol?",
+    "question": "What is Dumbledore buried with?",
     "incorrect": [
-      "Number sign",
-      "Hash Sign",
-      "Pound"
+      "Fawkes",
+      "The Resurrection Stone",
+      "The Sword of Gryffindor"
     ],
-    "correct": "Octothorpe"
+    "correct": "The Elder Wand"
   },
   {
-    "question": "Not American at all, where is apple pie from?",
+    "question": "How does Rita Skeeter slip around Hogwarts undetected to spy and obtain gossip for her articles?",
     "incorrect": [
-      "Japan",
-      "Ethiopia",
-      "Canada"
+      "She uses the Marauder's Map",
+      "She uses an invisibility cloak",
+      "She uses an extendable ear"
     ],
-    "correct": "England"
+    "correct": "She's an unregistered animagus and can turn into a beetle"
   },
   {
-    "question": "What is the national animal of Scotland?",
+    "question": "What does a Dementor do?",
     "incorrect": [
-      "Bear",
-      "Rabbit",
-      "Seal"
+      "They collect brooms",
+      "They make a person go crazy",
+      "They play pranks"
     ],
-    "correct": "Unicorn"
+    "correct": "They suck out a person's soul with the Dementors' Kiss"
   },
   {
-    "question": "Where in the world is the only place where Canada is *due south*",
+    "question": "What does Horace Slughorn disguise himself as when Dumbledore and Harry first visit?",
     "incorrect": [
-      "Alaska",
-      "Russia",
-      "Washington"
+      "An elf",
+      "A tree",
+      "A portrait"
     ],
-    "correct": "Detroit"
+    "correct": "An armchair"
   },
   {
-    "question": "Approximately how many grapes go into a bottle of wine?",
+    "question": "What does the Marauder's Map show?",
     "incorrect": [
-      "500",
-      "200",
-      "1000"
+      "The way to the Chamber of Secrets",
+      "Directions to the Marauder's house",
+      "The Room of Requirement"
     ],
-    "correct": "700"
+    "correct": "The location of everyone at Hogwarts"
   },
   {
-    "question": "How much does a US One Dollar Bill cost to make?",
+    "question": "What is Harry's Patronus?",
     "incorrect": [
-      "$0.25",
-      "$1",
-      "$5"
+      "An owl",
+      "A horse",
+      "A wolf"
     ],
-    "correct": "$0.05"
+    "correct": "A stag"
   },
   {
-    "question": "The Vatican bank has the only ATM in the world that allows users to do what?",
+    "question": "Which is not a method of transport for wizards?",
     "incorrect": [
-      "Receive withdrawls in rosary beads",
-      "Vote for the Pope",
-      "Purchase indulgences"
+      "Apparition",
+      "A portkey",
+      "Floo Powder"
     ],
-    "correct": "Perform transactions in Latin"
+    "correct": "Abracadabra"
   }
 ]
